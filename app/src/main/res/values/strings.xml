@@ -1,3 +1,7 @@
 <resources>
+    <string name="Logo">My Logo</string>
     <string name="app_name">MyFirst App</string>
+    <string name="welcome_message">Welcome to My First App
+    </string>
+    <string name="button_text">Click Me!</string>
 </resources>
